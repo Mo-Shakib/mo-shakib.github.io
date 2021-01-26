@@ -28,7 +28,19 @@ h6 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
   color: #778492;
+  /* ------optional-------- */
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  transition-duration: 0.3s;
+  transition-property: transform;
+
 }
+h1:hover{
+  transform: scale(1.05);
+}
+
 a {
   color: #3f72af;
   -webkit-transition: all 0.4s ease-in-out;
@@ -126,8 +138,21 @@ iframe {
   padding: 30px 0;
   background: #ffffff;
   border-top: 10px solid #112d4e;
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  transition-duration: 0.3s;
+  transition-property: transform;
   /* border-radius: 25px; */
 }
+
+.header:hover,
+.header:focus,
+.header:active {
+    transform: scale(1.05);
+}
+
 .header .btn {
   margin-top: 60px;
   font-weight: bold;
@@ -138,12 +163,14 @@ iframe {
   border-radius: 50%;
   width: 180px;
   height: 180px;
+
 }
 .header .profile-content .name {
   color: #112d4e;
   font-size: 38px;
   margin-bottom: 5px;
   margin-top: 30px;
+
 }
 .header .profile-content .desc {
   color: #778492;
@@ -188,7 +215,23 @@ iframe {
   background: #ffffff;
   padding: 30px;
   border-radius: 25px 25px;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2), 0px 0px 25px rgba(0, 0, 0, 0.2);
+  /* ----optional styles---- */
+  /* transform-style: preserve-3d; */ 
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  transition-duration: 0.3s;
+  transition-property: transform;
 }
+
+.section .section-inner:hover,
+.section .section-inner:focus,
+.section .section-inner:active {
+    transform: scale(1.05);
+}
+
 .section .heading {
   margin-top: 0;
   margin-bottom: 30px;
@@ -391,7 +434,20 @@ iframe {
   height: 15px;
   background: #3f72af;
   border-radius: 10px;
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  transition-duration: 0.3s;
+  transition-property: transform;
 }
+
+.skills .skillset .level-bar-inner:hover,
+.skills .skillset .level-bar-inner:focus,
+.skills .skillset .level-bar-inner:active {
+    transform: scale(1.05);
+}
+
 /* Testimonials section */
 .testimonials .item {
   margin-bottom: 30px;
