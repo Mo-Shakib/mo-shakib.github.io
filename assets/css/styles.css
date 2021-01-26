@@ -8,12 +8,17 @@
 /* ======= Base ======= */
 body {
   font-family: 'Lato', arial, sans-serif;
-  color: #434343;
-  background:  #dae3e7;
+  color: #000000;
+  background:  #dbe2ef;
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+/* img {
+  border-radius: 50%;
+  max-width: 180px;
+  max-height: 180px;
+} */
 h1,
 h2,
 h3,
@@ -25,7 +30,7 @@ h6 {
   color: #778492;
 }
 a {
-  color: #3aaa64;
+  color: #3f72af;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -56,16 +61,16 @@ a.btn:focus {
 }
 a.btn-cta-primary,
 .btn-cta-primary {
-  background: #54ba4e;
-  border: 1px solid #54ba4e;
+  background: #3f72af;
+  /* border: 1px solid #ffffff; */
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
 }
 a.btn-cta-primary:hover,
 .btn-cta-primary:hover {
-  background: #49ac43;
-  border: 1px solid #49ac43;
+  background: #08ce6b;
+  /* border: 1px solid #3f72af; */
   color: #fff;
 }
 a.btn-cta-secondary,
@@ -110,21 +115,32 @@ iframe {
     -webkit-overflow-scrolling:touch;
 }
 */
+
+/* ========Hover effects ============ */
+/* .section-inner:hover {
+  color: #3f72af;
+} */
 /* ======= Header ======= */
+
 .header {
   padding: 30px 0;
-  background: #f5f5f5;
-  border-top: 10px solid #778492;
+  background: #ffffff;
+  border-top: 10px solid #112d4e;
+  /* border-radius: 25px; */
 }
 .header .btn {
   margin-top: 60px;
   font-weight: bold;
+  border-radius: 25px 25px;
 }
 .header .profile-image {
   margin-right: 30px;
+  border-radius: 50%;
+  width: 180px;
+  height: 180px;
 }
 .header .profile-content .name {
-  color: #49515a;
+  color: #112d4e;
   font-size: 38px;
   margin-bottom: 5px;
   margin-top: 30px;
@@ -154,7 +170,7 @@ iframe {
   text-align: center;
 }
 .header .profile-content .social a:hover {
-  background: #778492;
+  background: #112d4e;
 }
 .header .profile-content .social a .fa {
   font-size: 20px;
@@ -169,8 +185,9 @@ iframe {
   margin-bottom: 30px;
 }
 .section .section-inner {
-  background: #fff;
+  background: #ffffff;
   padding: 30px;
+  border-radius: 25px 25px;
 }
 .section .heading {
   margin-top: 0;
@@ -368,10 +385,12 @@ iframe {
 .skills .skillset .level-bar {
   height: 15px;
   background: #e8e8e8;
+  border-radius: 10px;
 }
 .skills .skillset .level-bar-inner {
   height: 15px;
-  background: #66cb8c;
+  background: #3f72af;
+  border-radius: 10px;
 }
 /* Testimonials section */
 .testimonials .item {
@@ -438,7 +457,7 @@ iframe {
   margin-bottom: 0;
 }
 .languages .item .fa {
-  color: #79d19a;
+  color: #f5b461;
 }
 /* Blog Section */
 .blog .item {
@@ -511,6 +530,9 @@ iframe {
   .header .profile-image {
     float: none !important;
     margin: 0 auto;
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
   }
   .header .profile-content {
     float: none !important;
