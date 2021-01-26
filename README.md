@@ -7,11 +7,11 @@
 
 - __v2.0__ 
 
-  - <img src="https://raw.githubusercontent.com/Code-Shakib/code-shakib.github.io/master/assets/images/v2.0.png" style="zoom:40%;" />
+  - <img src="https://raw.githubusercontent.com/Code-Shakib/code-shakib.github.io/master/assets/images/v2.0.png" style="zoom:33%;" />
 
 - __v3.0__ (26 Jan, 2020)
 
-  - <img src="https://raw.githubusercontent.com/Code-Shakib/code-shakib.github.io/master/assets/images/v3.0.png" style="zoom:40%;" />
+  - <img src="https://raw.githubusercontent.com/Code-Shakib/code-shakib.github.io/master/assets/images/v3.0.png" style="zoom:33%;" />
 
     - Change the boxy design to rounded card
 
@@ -22,13 +22,5 @@
     - added some hover effects
 
 - __3.1__ (26 Jan, 2020)
-	
-- message icon has changed
-  - new: Work experience section added																
-
-  ​    
-
-  ​     
-  
-  
-
+	- message icon has changed
+	- new: Work experience section added
