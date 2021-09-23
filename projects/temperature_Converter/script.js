@@ -16,3 +16,9 @@ function farToCel(){
     celsius.value = output.toFixed(2);
     console.log(output.toFixed(2));
 }
+
+const chk = document.getElementById('chk');
+
+chk.addEventListener('change', () => {
+	document.body.classList.toggle('dark');
+});
