@@ -5,3 +5,5 @@ repo_description_lines_max: 2
 
 github_repos:
   - Mo-Shakib/Leetcode
+  - Mo-Shakib/HackerRank
+  - Mo-Shakib/Simon-game
