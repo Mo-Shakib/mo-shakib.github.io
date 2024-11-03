@@ -7,9 +7,10 @@ subtitle: <b>Computer Science</b> graduate from <a href='https://www.bracu.ac.bd
 profile:
   align: left
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
+  image_class: custom-profile-pic
   more_info: >
-    <p>555 your office number</p>
+    
     
 
 news: false # includes a list of news items
