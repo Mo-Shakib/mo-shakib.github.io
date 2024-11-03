@@ -308,7 +308,7 @@ ul.task-list input[type="checkbox"] {
   .navbar-brand.social {
     padding-bottom: 0;
     padding-top: 0;
-    font-size: 1.7rem;
+    font-size: 1.5rem;
 
     a {
       i::before {
@@ -383,7 +383,7 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2rem;
 
     a {
       i::before {
@@ -430,7 +430,7 @@ ul.task-list input[type="checkbox"] {
 
 @media only screen and (max-width: 400px) {
   .wechat-modal > img {
-    width: 100%;
+    width: 70%;
   }
 }
 
@@ -1247,6 +1247,10 @@ ninja-keys::part(ninja-input-wrapper) {
 }
 
 @media (max-width: 575px) {
+  // .img
+  .profile{
+    width: 40%;
+  }
   .newsletter-form-input,
   .newsletter-form-button,
   .newsletter-loading-button,
@@ -1303,4 +1307,11 @@ ninja-keys::part(ninja-input-wrapper) {
 ::highlight(search) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
+}
+
+/* assets/css/style.css or similar */
+.custom-profile-pic {
+  width: 150px; /* Set desired width */
+  height: 150px; /* Set desired height */
+  object-fit: cover; /* Ensure the image covers the specified dimensions */
 }
