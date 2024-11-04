@@ -8,7 +8,7 @@ middle_name:
 last_name: Shakib
 email: mo.shakib.official@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple portfolio website of Mohammed Shakib
+  Mo-Shakib's portfolio: CS grad showcasing skills, projects, and tech blogs. LeetCode solutions, DSA, programming, and problem-solving content.
 footer_text: >
   
   
@@ -125,7 +125,7 @@ cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
-google_site_verification: zsnPOrp9PPf4gSgbNfa7rWVM2N2Hr3Sb4H172K2N8cQ # your google-site-verification ID (Google Search Console)
+google_site_verification: google8036bd0f6a428cbf #  google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
