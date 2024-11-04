@@ -73,7 +73,7 @@ pagination:
 <div class="float-right">
 <i class="fa-solid fa-thumbtack fa-xs"></i>
 </div>
-<h3 class="card-title text-lowercase">{{ post.title }}</h3>
+<h5 class="card-title">{{ post.title }}</h5>
 <p class="card-text">{{ post.description }}</p>
 
                     {% if post.external_source == blank %}
@@ -179,7 +179,7 @@ pagination:
 </div>
 
   <div class="col-sm-3">
-    <img class="card-img" src="{{ post.thumbnail | relative_url }}" style="object-fit: cover; height: 90%" alt="image">
+    <img class="card-img" src="{{ post.thumbnail | relative_url }}" style="object-fit: cover; height: 80%" alt="image">
   </div>
 </div>
 {% endif %}

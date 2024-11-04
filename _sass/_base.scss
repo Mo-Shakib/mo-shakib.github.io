@@ -171,7 +171,7 @@ ul.task-list input[type="checkbox"] {
 
   .card-img {
     width: 100%;
-    padding-top: 1.25rem;
+    padding-top: 1rem;
   }
 
   .card-title {
@@ -179,7 +179,7 @@ ul.task-list input[type="checkbox"] {
   }
 
   .card-body {
-    padding: 1.25rem 1.25rem 1.25rem 1.25rem;
+    padding: 0.1rem 1rem 0.1rem 1rem;
   }
 }
 
@@ -458,10 +458,10 @@ footer.fixed-bottom {
 
 footer.sticky-bottom {
   border-top: 1px solid var(--global-divider-color);
-  padding-top: 40px;
-  padding-bottom: 40px;
-  font-size: 0.9rem;
-
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 0.75rem;
+  
   .container {
     text-align: center;
   }
@@ -512,19 +512,26 @@ footer.sticky-bottom {
 .header-bar {
   border-bottom: 1px solid var(--global-divider-color);
   text-align: center;
-  padding-top: 1rem;
-  padding-bottom: 3rem;
+  padding-top: 0.1rem;
+  padding-bottom: 0.5rem;
 
   h1 {
     color: var(--global-theme-color);
-    font-size: 2rem;
+    font-size: 1.5rem;
+    text-align: left;
+  }
+  h2 {
+    color: var(--global-theme-color);
+    font-size: 1rem;
+    text-align: left;
+    // edit the blog description style
   }
 }
 
 .tag-category-list {
   border-bottom: 1px solid var(--global-divider-color);
   text-align: center;
-  padding-top: 0.1rem;
+  padding-top: 0.2rem;
 
   ul {
     justify-content: center;
@@ -534,14 +541,14 @@ footer.sticky-bottom {
     li {
       list-style: none;
       display: inline-block;
-      padding: 1rem 0.5rem;
+      padding: 0.1rem 0.1rem;
       color: var(--global-text-color-light);
     }
   }
 }
 
 .post-title {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   mjx-container[jax="CHTML"][display="true"] {
     display: unset;
   }
@@ -549,14 +556,14 @@ footer.sticky-bottom {
 
 .post-list {
   margin: 0;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   padding: 0;
 
   li {
     border-bottom: 1px solid var(--global-divider-color);
     list-style: none;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
 
     .post-meta {
       color: var(--global-text-color-light);
@@ -1253,8 +1260,8 @@ ninja-keys::part(ninja-input-wrapper) {
     width: 40%;
   }
   .card-img{
-    display: none;
-    // width: 40%;
+    // display: none;
+    width: 30%;
   }
   .newsletter-form-input,
   .newsletter-form-button,
