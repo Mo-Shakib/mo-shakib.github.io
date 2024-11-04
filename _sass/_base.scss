@@ -1320,3 +1320,8 @@ ninja-keys::part(ninja-input-wrapper) {
   height: 150px; /* Set desired height */
   object-fit: cover; /* Ensure the image covers the specified dimensions */
 }
+
+.no-bullets {
+  list-style-type: none;
+  padding-left: 50px;
+}
