@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Software Engineer</b> | <b>Computer Science</b> grad from <a href='https://www.bracu.ac.bd/'>BRAC University</a>
+subtitle: <b>Software Engineer</b>  -  Computer Science</b> grad from <a href='https://www.bracu.ac.bd/'>BRAC University</a> <i class="fa-solid fa-graduation-cap"></i>
 
 profile:
   align: left
@@ -10,6 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   image_class: custom-profile-pic
   more_info: >
+      <a href="resume/"><i class="fa-solid fa-file"></i> Get my Résume/CV</a>
     
 
 news: false # includes a list of news items
