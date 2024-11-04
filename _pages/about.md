@@ -2,22 +2,37 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Web Developer</b> | <b>Computer Science</b> grad from <i><a href='https://www.bracu.ac.bd/'>BRAC University</a></i>
+subtitle: <b>Software Engineer</b> | <b>Computer Science</b> grad from <a href='https://www.bracu.ac.bd/'>BRAC University</a>
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   image_class: custom-profile-pic
   more_info: >
+    
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-Hello! I’m Shakib, a recent <b>Computer Science</b> graduate with a strong foundation in programming and problem-solving. Passionate about coding and innovation, I have hands-on experience with various technologies, including `Python`, `JavaScript`, and `C/C++`. My web development expertise extends to `HTML5`, `CSS3`, `Node`, `React`, and Figma, and I’m proficient in Git and GitHub for version control, `SQL` for database management, and applying agile methodologies in software development.
+Hellooo! I’m Shakib, a <b>Computer Science</b> graduate with a solid foundation in programming and a deep passion for problem-solving and innovation. Driven by my love for coding, I continuously explore new technologies and strive to create impactful solutions.
 
-Throughout my studies at BRAC University, I honed my analytical skills and gained hands-on experience through various projects, from developing my personal portfolio site to building a web-based Simon Game. I maintain an archive of my Codeforces solutions, demonstrating my commitment to optimizing code for performance and efficiency. My extracurricular involvement as an executive in the BRAC University Robotic Club enriched my teamwork and event management abilities, while my GitHub and LinkedIn profiles showcase my projects and skills in greater detail.
+Throughout my studies at [BRAC University](https://www.bracu.ac.bd/), I honed my analytical skills and gained hands-on experience through various projects. My extracurricular involvement as an executive in the [BRAC University Robotic Club](https://www.facebook.com/@BRACU.Robotics.Club/) enriched my teamwork and event management abilities, while my [GitHub](https://github.com/Mo-Shakib) and [LinkedIn](https://www.linkedin.com/in/mo-shakib/) profiles showcase my projects and skills in greater detail.
 
 
-In addition to my technical pursuits, I contributed as an executive in the Robotics Club at BRAC University, where I helped organize events, gaining experience in teamwork and communication. Outside of academics, I am fluent in English and Bengali and enjoy taking on coding challenges on platforms like Codeforces. Explore my GitHub for a closer look at my work, including my personal portfolio and game projects.
+This portfolio is a comprehensive showcase of who I am, featuring everything from my resume and professional blog to my skills, projects, educational content, and a creative outlet.
+<hr>
+
+#### <i class="fa-solid fa-code"></i> Skills:
+
+{: .no-bullets}
+- __Programming Languages__ `Python`, `JavaScript`
+- __Web Development__ `HTML5`, `CSS3`, `Bootstrap`, `JavaScript`, `Node`, `React`
+- __Version Control__ `Git`, `GitHub`
+- __Database__ `SQL`,`MongoDB`
+- __Software Development__ `OOP`, `System Design`, `Agile Methodologies`, `SDLC`
+- __Technical Skills__ `Data Structures`, `Algorithms`
+- __Soft Skills__ `Communication`, `Time Management`, `Adaptability`, `Problem Solving`
+
+ <hr>
