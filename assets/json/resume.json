@@ -7,11 +7,11 @@
     "url": "https://mo-shakib.github.io",
     "summary": "A recent Computer Science graduate",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Dhaka",
+      "countryCode": "BD",
+      "region": "Bangladesh"
     },
     "profiles": [
       {
@@ -50,10 +50,10 @@
       "location": "Dhaka",
       "url": "https://www.bracu.ac.bd/",
       "area": "Computer Science",
-      "studyType": "B. Sc",
+      "studyType": "Bachelor of Science",
       "startDate": "2020",
       "endDate": "2024",
-      "score": "10"
+      "score": ""
       // "courses": ["Programming Languages","Data Structure", "Algorithms", "Database Systems", "System Design", "Software Engineering", "Machine Learning", "Artificial Intelligence"]
     }
   ],
@@ -144,7 +144,7 @@
       "name": "Web Development",
       "level": "Master",
       "icon": "fa-solid fa-code",
-      "keywords": ["HTML5", "CSS3", "Bootstrap", "JavaScript", "Figma"]
+      "keywords": ["HTML5", "CSS3", "Bootstrap", "JavaScript", "Node","React"]
     },
     {
       "name": "Version Control",
@@ -168,13 +168,13 @@
       "name": "Technical Skills",
       "level": "Master",
       "icon": "fa-solid fa-wrench",
-      "keywords": ["Data Structures", "Algorithms"]
+      "keywords": ["Data Structures", "Algorithms","Problem Solving"]
     },
     {
       "name": "Soft Skills",
       "level": "Master",
       "icon": "fa-solid fa-user-friends",
-      "keywords": ["Communication", "Time Management", "Adaptability", "Problem Solving"]
+      "keywords": ["Communication", "Time Management", "Adaptability"]
     }
   ],
   "languages": [
@@ -220,8 +220,8 @@
       "name": "Protfilio Website",
       "summary": "A responsive portfolio showcasing projects and skills",
       "highlights": ["HTML5", "CSS3"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
+      "startDate": "2021-03-01",
+      "endDate": "2024",
       "url": "https://mo-shakib.github.io/"
     }
   ]
