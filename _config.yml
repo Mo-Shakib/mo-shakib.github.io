@@ -8,7 +8,7 @@ middle_name:
 last_name: Shakib
 email: mo.shakib.official@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Mo-Shakib's portfolio: CS grad showcasing skills, projects, and tech blogs. LeetCode solutions, DSA, programming, and problem-solving content.
+  Mohammad Shakib aka Mo-Shakib's portfolio: CS grad showcasing skills, projects, and tech blogs. LeetCode solutions, DSA, programming, and problem-solving content.
 footer_text: >
   
   
@@ -200,7 +200,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 5 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

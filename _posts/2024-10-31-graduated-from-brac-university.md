@@ -6,7 +6,7 @@ description: Reflecting on my unforgettable undergraduate journey and the people
 tags: graduation gratitude personal-growth university-life memories
 categories: life-updates
 thumbnail: assets/img/thumbnails/bracu-logo.jpg
-featured: true
+featured: false
 ---
 
 

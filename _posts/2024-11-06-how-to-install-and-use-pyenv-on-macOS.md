@@ -1,8 +1,8 @@
 ---
 layout: post
-title: How to Install and Use pyenv on macOS - A Complete Guide
+title: How to Install and Use pyenv on macOS
 date: 2024-11-06 00:19:00
-description: Managing multiple Python versions on your Mac can be challenging. Enter pyenv - a fantastic tool that lets you switch between Python versions seamlessly. In this guide, I'll walk you through installing and using pyenv on macOS.
+description: Managing multiple Python versions on your Mac can be challenging. pyenv is a fantastic tool that lets you switch between Python versions seamlessly.
 
 tags: python pyenv coding macOS
 categories: coding-tool
@@ -12,7 +12,7 @@ thumbnail: assets/img/post_images/pyenv.png
 
 {% include figure.liquid loading="eager" path="assets/img/post_images/pyenv.png" class="img-fluid rounded z-depth-1" %}
 
-Managing multiple Python versions on your Mac can be challenging. Enter pyenv - a fantastic tool that lets you switch between Python versions seamlessly. In this guide, I'll walk you through installing and using pyenv on macOS.
+Managing multiple Python versions on your MacOS can be challenging. `pyenv` - a fantastic tool that lets you switch between Python versions seamlessly. In this guide, I'll walk you through installing and using pyenv on macOS.
 
 #### What is [pyenv](https://github.com/pyenv/pyenv)?
 

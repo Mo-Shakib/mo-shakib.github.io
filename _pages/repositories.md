@@ -10,17 +10,7 @@ nav_order: 4
 {% if site.data.repositories.github_users %}
 
 #### 💻 GitHub Stats
-
-
-  <img alt="Shakib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mo-shakib&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" style="height: 192px;">
-  <img alt="Shakib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo-shakib&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" style="height: 192px;">
-
-<details>	
-  <summary><b>🔥 Github Streaks</b></summary><br>
-  <p align="center">
-  <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=mo-shakib&hide_border=true&theme=dark"></a></p>
-</details>
-
+  {% include figure.liquid loading="eager" path="https://raw.githubusercontent.com/Mo-Shakib/Mo-Shakib/1b58aa7a88367717d08ab652aa017a34eae44527/profile-3d-contrib/profile-night-rainbow.svg" class="img-fluid rounded z-depth-1" %}
 
 ---
 
@@ -42,7 +32,7 @@ nav_order: 4
 
 {% if site.data.repositories.github_repos %}
 
-## GitHub Repositories
+## My top public repositories:
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for repo in site.data.repositories.github_repos %}
