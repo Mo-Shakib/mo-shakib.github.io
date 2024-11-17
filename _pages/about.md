@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Software Engineer</b>  -  Computer Science</b> grad from <a href='https://www.bracu.ac.bd/'>BRAC University</a> <i class="fa-solid fa-graduation-cap"></i>
+subtitle: <b>Software Engineer</b>  -  Computer Science</b> grad from <a href='https://www.bracu.ac.bd/'>BRACU</a> <i class="fa-solid fa-graduation-cap"></i>
 
 profile:
   align: left
-  image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image: profile_laptop.png
+  image_circular: false # crops the image to make it circular
   image_class: custom-profile-pic
   more_info: >
       <a href="assets/pdf/resume.pdf">Résume/CV <i class="fa-solid fa-file-pdf"></i></a>
@@ -18,16 +18,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hellooo! I’m Shakib, a <b>Computer Science</b> graduate with a solid foundation in programming and a deep passion for problem-solving and innovation. Driven by my love for coding, I continuously explore new technologies and strive to create impactful solutions.
+Hey, I’m **Shakib**! I write code, solve problems, and occasionally create new ones-usually on purpose, of course. Through my blog, I share programming insights to help others _(and sometimes to remind myself what I did)_. If it’s about tech, I’m probably building it, breaking it, or pretending I knew it all along. My coding journey is powered by clever hacks, accidental brilliance, and a whole lot of coffee. Let’s turn coffee into code together—it’s way more fun than debugging at 3 a.m.!
 
-Throughout my studies at [BRAC University](https://www.bracu.ac.bd/), I honed my analytical skills and gained hands-on experience through various projects. My extracurricular involvement as an executive in the [BRAC University Robotic Club](https://www.facebook.com/@BRACU.Robotics.Club/) enriched my teamwork and event management abilities, while my [GitHub](https://github.com/Mo-Shakib) and [LinkedIn](https://www.linkedin.com/in/mo-shakib/) profiles showcase my projects and skills in greater detail.
+During my time at [BRAC University](https://www.bracu.ac.bd/), I sharpened my analytical skills and brought ideas to life through hands-on projects _(and a few sleepless nights)_. Curious about my work? Check out my [GitHub](https://github.com/Mo-Shakib) and [LinkedIn](https://www.linkedin.com/in/mo-shakib/) for a deeper dive into my projects and skills.
 
-<!-- _This portfolio is a comprehensive showcase of who I am, featuring everything from my resume and professional blog to my skills, projects, educational content, and a creative outlet._ -->
+_This portfolio is your one-stop guide to me—featuring my resume, professional blog, skills, projects, educational insights, and a touch of creativity._
 
 
 {% include figure.liquid loading="eager" path="assets/img/about/skills.svg" class="img-fluid rounded" %}
 
-{% include figure.liquid loading="eager" path="assets/img/about/eduaction.svg" class="img-fluid rounded" %}
 
 
 <!-- <li class="no-bullets"><i class="fa-solid fa-hashtag"></i> <strong>Programming Languages</strong> <code>Python</code>, <code>JavaScript</code></li>

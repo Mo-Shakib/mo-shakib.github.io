@@ -1269,6 +1269,7 @@ ninja-keys::part(ninja-input-wrapper) {
   // .img
   .profile{
     width: 40%;
+    z-index: 0;
   }
   .card-img{
     // display: none;
@@ -1337,6 +1338,7 @@ ninja-keys::part(ninja-input-wrapper) {
   width: 150px; /* Set desired width */
   height: 150px; /* Set desired height */
   object-fit: cover; /* Ensure the image covers the specified dimensions */
+  z-index: 0;
 }
 
 .no-bullets {
