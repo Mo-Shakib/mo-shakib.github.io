@@ -25,8 +25,6 @@ During my time at [BRAC University](https://www.bracu.ac.bd/), I sharpened my an
 _This portfolio is your one-stop guide to me—featuring my resume, professional blog, skills, projects, educational insights, and a touch of creativity._
 
 
-{% include figure.liquid loading="eager" path="assets/img/about/skills.svg" class="img-fluid rounded" %}
-
 
 
 <!-- <li class="no-bullets"><i class="fa-solid fa-hashtag"></i> <strong>Programming Languages</strong> <code>Python</code>, <code>JavaScript</code></li>
