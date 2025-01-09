@@ -5,7 +5,7 @@ permalink: /
 subtitle: <b>Software Engineer</b>  -  Computer Science</b> grad from <a href='https://www.bracu.ac.bd/'>BRACU</a> <i class="fa-solid fa-graduation-cap"></i>
 
 profile:
-  align: left
+  align: right
   image: profile_laptop.png
   image_circular: false # crops the image to make it circular
   image_class: custom-profile-pic
