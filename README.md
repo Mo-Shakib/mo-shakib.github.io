@@ -37,3 +37,7 @@ To run this site locally:
 ```bash
 gem install jekyll bundler
 ```
+## Run the development server
+```bash
+bundle exec jekyll serve
+```
